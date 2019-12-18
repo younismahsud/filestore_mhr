@@ -1,0 +1,10 @@
+
+.o_web_client .o_widgetonbutton {
+  color: #d9534f;
+}
+.o_web_client .o_widgetonbutton.o_is_posted {
+  color: #5cb85c;
+}
+.o_web_client .o_widgetonbutton.o_unposted {
+  color: #f0ad4e;
+}
