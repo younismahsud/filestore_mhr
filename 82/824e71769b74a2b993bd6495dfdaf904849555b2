@@ -1,0 +1,56 @@
+
+/* COLORS --------------------------------------------------------- */
+/* COLORED BG -------------------------------------------------------- */
+.bg-primary {
+  background-color: #c5bcb1;
+}
+.bg-success {
+  background-color: #F1C40F;
+}
+.bg-info {
+  background-color: #E67E22;
+}
+.bg-warning {
+  background-color: #f3ac12;
+}
+.bg-danger {
+  background-color: #D35400;
+}
+/* TEXTS & LINKS ------------------------------------------------------- */
+/* BUTTONS --------------------------------------------------------- */
+.btn .fa {
+  color: white;
+}
+.btn-default .fa {
+  color: #666666;
+}
+/* TRANSPARENT BG --------------------------------------------------- */
+/* Used in snippets Prx Image Color and Prx Image Shade ------------- */
+.bg-transparent-color {
+  background: #D35400;
+  opacity: 0.85;
+}
+.bg-transparent-shade {
+  background: black;
+  opacity: 0.5;
+}
+/* Footer ----------------------------------------------------------- */
+#wrapwrap footer {
+  background-color: #D35400;
+  color: white;
+}
+footer ul li a {
+  color: #f3bf91;
+}
+footer ul li a:hover {
+  color: #F1C40F;
+  text-decoration: none;
+}
+footer h4 {
+  color: #f3bf91;
+  padding-bottom: 12px;
+  text-transform: uppercase;
+}
+footer .fa {
+  color: #f3bf91;
+}
